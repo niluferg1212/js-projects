@@ -31,7 +31,7 @@ npm install
 
 * **💰 JS Budget Tracker** – Gelir, gider ve birikim hedeflerini takip eden uygulama.
 
-* **�� Compound Calculator** – Faiz hesaplamaları yapan basit hesap makinesi.
+* **🧮 Compound Calculator** – Faiz hesaplamaları yapan basit hesap makinesi.
 
 * **🏆 High Score Manager** – Oyun skorlarını yöneten sistem.
 
@@ -55,4 +55,5 @@ npm install
 * **🏆 High Score Manager**: Kullanıcı skorlarını CSV dosyasında saklar, yüksek skorları listeler ve yönetir.
 
 #### 💡 **İpucu**: Her proje kendi klasörü içinde bağımsızdır ve Node.js ortamında çalıştırılabilir.
+
 
