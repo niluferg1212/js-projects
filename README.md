@@ -35,7 +35,6 @@ npm install
 
 * **🏆 High Score Manager** – Oyun skorlarını yöneten sistem.
 
-Her proje kendi klasöründe bağımsız bir şekilde çalışır ve kendi app.js veya ana dosyasına sahiptir.
 
 ## 🛠️ Kullanılan Araçlar
 
@@ -56,3 +55,4 @@ Her proje kendi klasöründe bağımsız bir şekilde çalışır ve kendi app.j
 * **🏆 High Score Manager**: Kullanıcı skorlarını CSV dosyasında saklar, yüksek skorları listeler ve yönetir.
 
 #### 💡 **İpucu**: Her proje kendi klasörü içinde bağımsızdır ve Node.js ortamında çalıştırılabilir.
+
