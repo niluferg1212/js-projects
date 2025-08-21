@@ -1,0 +1,58 @@
+# 🚀 JS Projects
+
+Bu depo, çeşitli JavaScript projelerimi içeriyor. Her proje farklı bir amaca hizmet ediyor ve temel olarak kullanıcı etkileşimi, veri yönetimi ve hesaplama işlemleri üzerine odaklanıyor.
+
+---
+
+## ⚙️ Kurulum Bilgileri
+
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/niluferg1212/js-projects.git
+
+## ▶️ Nasıl Başlatılır
+
+**1.** Terminal veya komut satırında ilgili proje klasörüne gidin:
+
+````
+cd "JS budget tracker"       # 💰 Gelir-Gider Takip
+cd "compound calculator"     # 🧮 Bileşik Faiz Hesaplayıcı
+cd "high score manager"      # 🏆 Skor Yönetimi
+````
+**2.** Node.js projeleri için gerekli paketleri yükleyin:
+
+````
+npm install
+````
+
+**3.** Program ekrana gelen menü veya prompt üzerinden çalışır.
+
+## 📁 Proje Yapısı
+
+* **💰 JS Budget Tracker** – Gelir, gider ve birikim hedeflerini takip eden uygulama.
+
+* **�� Compound Calculator** – Faiz hesaplamaları yapan basit hesap makinesi.
+
+* **🏆 High Score Manager** – Oyun skorlarını yöneten sistem.
+
+Her proje kendi klasöründe bağımsız bir şekilde çalışır ve kendi app.js veya ana dosyasına sahiptir.
+
+## 🛠️ Kullanılan Araçlar
+
+* Node.js
+
+* npm paketleri (csv-parser, prompt-sync, chartjs-node-canvas vb.)
+
+* Git ve GitHub
+
+* Terminal veya komut satırı
+
+## 🧠 Algoritmanın Mantığı
+
+* **💰 JS Budget Tracker**: Kullanıcı gelir ve giderlerini CSV dosyalarına kaydeder, toplam bakiyeyi hesaplar ve harcama özetini pie chart ile gösterir.
+
+* **🧮 Compound Calculator**: Kullanıcının girdiği ana para ve faiz oranına göre bileşik faiz hesaplar.
+
+* **🏆 High Score Manager**: Kullanıcı skorlarını CSV dosyasında saklar, yüksek skorları listeler ve yönetir.
+
+#### 💡 **İpucu**: Her proje kendi klasörü içinde bağımsızdır ve Node.js ortamında çalıştırılabilir.
